@@ -1,0 +1,18 @@
+containers: {
+    metabase: {
+        image: "metabase/metabase:v0.48.3"
+        ports: publish: "3000/http"
+        env: {
+            MB_DB_TYPE: "postgres"
+            MB_DB_PORT: "5432"
+            MB_DB_USER: "@{service.postgres.secrets.admin.username}"
+            MB_DB_PASS: "@{service.postgres.secrets.admin.password}"
+            MB_DB_HOST: "@{service.postgres.address}"
+            MB_DB_DBNAME: "@{service.postgres.data.dbName}"
+        }
+        consumes: ["postgres"]
+        memory: 1Gi
+    }
+}
+
+services: postgres: image: "ghcr.io/acorn-io/postgres:v15.#-#"
