@@ -74,6 +74,8 @@ Go to your acorn Metabase URL. Then follow these steps:
 
 5. You'll be prompted to add some databases. These are the databases that you want to let Metabase analyze. You can safely skip this step and add databases from the Metabase dashboard later.
 
+![metabase_database](https://github.com/randall-coding/metabase-acorn/assets/39175191/92679403-5f98-40e7-875d-fd6b168e5975)
+
 6. Finally, click on "Take me to the Metabase", and you'll end up on the Metabase dashboard.
 
 <img width="921" alt="metabase_dashboard" src="https://github.com/randall-coding/metabase-acorn/assets/39175191/3cb65bc1-39da-4e3d-bcd3-d3f3beeac886">
