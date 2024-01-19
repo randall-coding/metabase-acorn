@@ -59,8 +59,7 @@ Click on the metabase deployment, and find the endpoint section on the right sid
 
 Go to your acorn Metabase URL. Then follow these steps:
 
-
-1. Visit the web endpoint for your Acorn Metabase server. You'll see Metabase's "Getting Started" page.
+1. You should first see Metabase's "Getting Started" page.
 
 ![metabse_start](https://github.com/randall-coding/metabase-acorn/assets/39175191/2813aceb-cadf-4f6c-81d2-e80bf370f855)
 
