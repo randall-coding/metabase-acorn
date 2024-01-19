@@ -60,27 +60,25 @@ Click on the metabase deployment, and find the endpoint section on the right sid
 Go to your acorn Metabase URL. Then follow these steps:
 
 
-1. Go to the web address for your Acorn Metabase. You'll be landed on Metabase's "Getting Started" page.
+1. Visit the web endpoint for your Acorn Metabase server. You'll see Metabase's "Getting Started" page.
 
 ![metabse_start](https://github.com/randall-coding/metabase-acorn/assets/39175191/2813aceb-cadf-4f6c-81d2-e80bf370f855)
 
 2. Click on the "Let's Get Started" button you see there. It will ask you to choose your language. Choose your preferred language.
 
-3. Fill in your account details on the page that asks, "What should we call you?".
+3. Fill in your account details on the form below.
 
 ![metabase_user_form](https://github.com/randall-coding/metabase-acorn/assets/39175191/aa2336a5-ae76-42fd-8e44-f303cb6d89c7)
 
-4. Follow the directions on the screen to finish setting things up.
-
-5. You'll be prompted to add some databases. These are the databases that you want to let Metabase analyze. You can safely skip this step and add databases from the Metabase dashboard later.
+4. You'll be prompted to add databases. These are the databases Metabase will analyze. You can safely skip this step and add databases from the Metabase dashboard later.
 
 ![metabase_database](https://github.com/randall-coding/metabase-acorn/assets/39175191/92679403-5f98-40e7-875d-fd6b168e5975)
 
-6. Finally, click on "Take me to the Metabase", and you'll end up on the Metabase dashboard.
+5. Finally, click on "Take me to the Metabase", and you'll end up on the Metabase dashboard.
 
 <img width="921" alt="metabase_dashboard" src="https://github.com/randall-coding/metabase-acorn/assets/39175191/3cb65bc1-39da-4e3d-bcd3-d3f3beeac886">
 
-Congratulations! The Metabase installation is now complete.
+Congratulations! Your Metabase installation is now complete.
 
 ## Conclusion
 That's all there is to it.  We've now got a Metabase server up and running from an acorn image.
