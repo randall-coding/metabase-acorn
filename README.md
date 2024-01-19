@@ -11,7 +11,7 @@ Acorn is a new cloud platform that allows you to easily deploy, develop and mana
 ## Setup Acorn Account
 Setup an acorn account at [acorn.io](https://acorn.io).  This can be a free account for your first deployment, and if you'd like additional storage space you can look into the pro account or enterprise.  You will need a Github account to signup as shown in the image below.
 
-![signin_acorn]()
+![signin_acorn](https://github.com/randall-coding/opensupports-docker/assets/39175191/d46815fb-d2d5-42cd-b93d-41ca541a63bd)
 
 ## Install acorn cli 
 First we need to install acorn-cli locally.  Choose an install method from the list below:
@@ -51,9 +51,9 @@ Visit your acorn dashboard to see if your deployment was successful.
 
 Click on the metabase deployment, and find the endpoint section on the right side panel.  This is your metabase instance link.
 
-![metabase_acorn_ui]()
+![metabase_acorn_ui](https://github.com/randall-coding/metabase-acorn/assets/39175191/87d7164f-a43e-4eb7-8644-b5a95a3f1b2f)
 
-![metabase_endpoint]()
+![metabase_endpoint](https://github.com/randall-coding/metabase-acorn/assets/39175191/fc96e482-6644-4247-a060-806a58473d46)
 
 ## Configure Metabse
 
@@ -62,13 +62,13 @@ Go to your acorn Metabase URL. Then follow these steps:
 
 1. Go to the web address for your Acorn Metabase. You'll be landed on Metabase's "Getting Started" page.
 
-![metabase-start]()
+![metabse_start](https://github.com/randall-coding/metabase-acorn/assets/39175191/2813aceb-cadf-4f6c-81d2-e80bf370f855)
 
 2. Click on the "Let's Get Started" button you see there. It will ask you to choose your language. Choose your preferred language.
 
 3. Fill in your account details on the page that asks, "What should we call you?".
 
-![metabase-account-details]()
+![metabase_user_form](https://github.com/randall-coding/metabase-acorn/assets/39175191/aa2336a5-ae76-42fd-8e44-f303cb6d89c7)
 
 4. Follow the directions on the screen to finish setting things up.
 
