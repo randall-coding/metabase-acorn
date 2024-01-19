@@ -76,6 +76,8 @@ Go to your acorn Metabase URL. Then follow these steps:
 
 6. Finally, click on "Take me to the Metabase", and you'll end up on the Metabase dashboard.
 
+<img width="921" alt="metabase_dashboard" src="https://github.com/randall-coding/metabase-acorn/assets/39175191/3cb65bc1-39da-4e3d-bcd3-d3f3beeac886">
+
 Congratulations! The Metabase installation is now complete.
 
 ## Conclusion
